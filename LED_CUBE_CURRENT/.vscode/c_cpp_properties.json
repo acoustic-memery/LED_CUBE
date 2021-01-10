@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/Users/E/Documents/PlatformIO/Projects/201115-004456-nanoatmega328/include",
-                "c:/Users/E/Documents/PlatformIO/Projects/201115-004456-nanoatmega328/src",
+                "c:/Users/E/Documents/PlatformIO/Projects/LED_Cube/include",
+                "c:/Users/E/Documents/PlatformIO/Projects/LED_Cube/src",
                 "C:/Users/E/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
                 "C:/Users/E/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/E/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
@@ -23,8 +23,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/E/Documents/PlatformIO/Projects/201115-004456-nanoatmega328/include",
-                    "c:/Users/E/Documents/PlatformIO/Projects/201115-004456-nanoatmega328/src",
+                    "c:/Users/E/Documents/PlatformIO/Projects/LED_Cube/include",
+                    "c:/Users/E/Documents/PlatformIO/Projects/LED_Cube/src",
                     "C:/Users/E/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
                     "C:/Users/E/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/E/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
