@@ -10,6 +10,7 @@
 - Gerbers_Secondary: Gerber files generated from my designs in KiCAD and used to manufacture register array PCB
 - LED_CUBE_CURRENT: Current software used to run LED cube, all code written in C/C++ on the platformio Arduino framework
 - 8x8x8_cube_old.ino: Old Arduino IDE based project
+- LED_CUBE_DEMO: HIRE ME :) Demo
 
 #  Project Details
 
